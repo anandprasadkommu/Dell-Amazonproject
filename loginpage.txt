@@ -1,3 +1,5 @@
 create
 login
 logout
+sign in
+sign out
